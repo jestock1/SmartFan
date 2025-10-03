@@ -7,11 +7,11 @@ This project involves disassembly of the ceiling fan and working with AC voltage
 While I have did my best to ensure there are no errors or omissions, I'm not infallible. Please exercise common sense and caution; Double-check your work before connecting your fan and if something does not make sense, research first to ensure that you are 100% correct.
 
 ## Parts Used
-[ESP32-C3 SuperMini](https://www.amazon.com/dp/B0CW62PPZ1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+ESP32-C3 SuperMini [Amazon](https://www.amazon.com/dp/B0CW62PPZ1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
-[5V 4 Channel Solid State Relay](https://www.amazon.com/dp/B0B4NWKWK2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+5V 4 Channel Solid State Relay [Amazon](https://www.amazon.com/dp/B0B4NWKWK2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
-[Mini AC/DC Converter](https://www.amazon.com/dp/B0CLCWPG3R?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+Mini AC/DC Converter [Amazon](https://www.amazon.com/dp/B0CLCWPG3R?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 18 gauge stranded wire
 
